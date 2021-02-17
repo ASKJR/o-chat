@@ -18,4 +18,4 @@ API to manage Users.
 </ul>
 
 ### Security
-Must include header - X-Api-Key
+Must include header - <b>X-Api-Key</b> - in all requests
